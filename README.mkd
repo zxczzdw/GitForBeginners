@@ -39,5 +39,5 @@ Write something, please.
 - It's <b>Otto</b>'s practice of [markdown](http://daringfireball.net/projects/markdown/) language and mixed HTML
 - It's rainy,today.April 9th.Rong Renyuan	
 new branch by rongrenyuan
-ÎÒºÃÏñ¸ÄµÄÄ«Ä«¼£¼£µÄÁË¡£¡£April 9 th,Rongrenyuan
-
+ï¿½Òºï¿½ï¿½ï¿½Äµï¿½Ä«Ä«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë¡ï¿½ï¿½ï¿½April 9 th,Rongrenyuan
++nice xuachenzhao
